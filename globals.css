@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add any global styles or overrides here */
+body {
+  /* Example: Set a default dark background if desired for the cyberpunk theme */
+  /* background-color: #0A0A0A; */
+  /* color: white; */
+}
